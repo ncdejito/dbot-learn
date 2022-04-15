@@ -80,6 +80,24 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!-- About the Project -->
 ## :star2: About the Project
 
+<!-- Usage -->
+## :eyes: Usage
+
+Input pickup and dropoff location with API call below, then watch it appear at client http://172.27.131.157:8501/
+```bash
+http://127.0.0.1:8000//order/pickup={pickup_lon},{pickup_lat};dropoff={dropoff_lon},{dropoff_lat};
+```
+
+![](assets/demo.gif)
+
+
+<!-- Features -->
+### :dart: Features
+
+- Order taking via API
+- Dispatching with logs
+- Frontend for monitoring movement
+
 
 <!-- Screenshots -->
 <!-- ### :camera: Screenshots
@@ -122,13 +140,6 @@ Maybe you can mention me or this repo in the acknowledgements too
     <li><a href="https://www.docker.com/">Terraform (WIP)</a></li>
   </ul>
 </details>
-
-<!-- Features -->
-### :dart: Features
-
-- Order taking via API
-- Dispatching with logs
-- Frontend for monitoring movement
 
 
 <!-- Env Variables -->
@@ -214,18 +225,6 @@ To deploy this project run
 ``` -->
 
 
-<!-- Usage -->
-## :eyes: Usage
-
-Input pickup and dropoff location with API call below, then watch it appear at client http://172.27.131.157:8501/
-```bash
-    http://127.0.0.1:8000//order/pickup={pickup_lon},{pickup_lat};dropoff={dropoff_lon},{dropoff_lat};
-```
-
-<div align="center">
-
-  <img src="assets/demo.png" alt="demo" width="200" height="auto" />
-
 
 
 
@@ -285,4 +284,4 @@ Project Link: [https://github.com/ncdejito/dbot-learn](https://github.com/ncdeji
 
 Use this section to mention useful resources and libraries that you have used in your projects.
 
- - [Awesome Readme Template by Louis3797](https://github.com/ncdejito/dbot-learn)
+ - [Awesome Readme Template by Louis3797](https://github.com/Louis3797/awesome-readme-template)
