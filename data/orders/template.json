@@ -1,0 +1,15 @@
+{
+    "time_received": "",
+    "robot_id": "",
+    "order_id": 0,
+    "pickup": {
+        "lon": 0,
+        "lat": 0,
+        "route": ""
+    },
+    "dropoff": {
+        "lon": 0,
+        "lat": 0,
+        "route": ""
+    }
+}

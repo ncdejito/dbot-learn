@@ -1,0 +1,14 @@
+{
+    "filepath": "data/robots/standby/great-dolphin.json",
+    "location": {
+        "lon": 121.000777,
+        "lat": 14.658302
+    },
+    "status": "pickup",
+    "waypoint": 0,
+    "order_id": "",
+    "robot_id": "great-dolphin",
+    "route": [],
+    "end_lon": 121.000777,
+    "end_lat": 14.658302
+}

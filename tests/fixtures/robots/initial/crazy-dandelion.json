@@ -1,0 +1,14 @@
+{
+    "filepath": "data/robots/standby/crazy-dandelion.json",
+    "location": {
+        "lon": 120.953005,
+        "lat": 14.645637
+    },
+    "status": "pickup",
+    "waypoint": 0,
+    "order_id": "",
+    "robot_id": "crazy-dandelion",
+    "route": [],
+    "end_lon": 120.953005,
+    "end_lat": 14.645637
+}

@@ -1,0 +1,15 @@
+{
+    "time_received": "",
+    "robot_id": "",
+    "order_id": "9f40a19f-ad96-40cb-a0e1-3d702e77b69f",
+    "pickup": {
+        "lon": 120.9635254,
+        "lat": 14.6348514,
+        "route": ""
+    },
+    "dropoff": {
+        "lon": 121.0254764,
+        "lat": 14.565466,
+        "route": ""
+    }
+}

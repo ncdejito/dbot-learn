@@ -1,0 +1,14 @@
+{
+    "filepath": "",
+    "location": {
+        "lon": 0,
+        "lat": 0
+    },
+    "status": "dropoff",
+    "waypoint": 0,
+    "order_id": "",
+    "robot_id": "",
+    "route": [],
+    "end_lon": 0,
+    "end_lat": 0
+}

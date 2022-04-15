@@ -1,0 +1,10 @@
+{
+    "time_received": "12:00:00 2022-03-31",
+    "robot_id": "crazy-dandelion",
+    "order_id": 1234,
+    "pickup_lon": 120.9635254,
+    "pickup_lat": 14.6348514,
+    "dropoff_lon": 121.0314065,
+    "dropoff_lat": 14.6392059,
+    "route": ""
+}
