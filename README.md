@@ -19,6 +19,9 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!-- Badges -->
 <p>
   <a href="https://github.com/ncdejito/dbot-learn/graphs/contributors">
+    <img src="assets/coverage.svg" alt="coverage" />
+  </a>
+  <a href="https://github.com/ncdejito/dbot-learn/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/ncdejito/dbot-learn" alt="contributors" />
   </a>
   <a href="">
