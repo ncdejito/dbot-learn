@@ -102,12 +102,12 @@ http://127.0.0.1:8000//order/pickup={pickup_lon},{pickup_lat};dropoff={dropoff_l
 - Frontend for monitoring movement
 
 
-<!-- Screenshots -->
-<!-- ### :camera: Screenshots
+<!-- Traits -->
+### :camera: Traits
 
-<div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-</div> -->
+ - Resilient
+ - Scalable
+ - Cost-aware
 
 
 <!-- TechStack -->
