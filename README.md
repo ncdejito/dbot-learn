@@ -2,7 +2,7 @@
 Turning robots into couriers.
 [Design doc](https://docs.google.com/document/d/15c91RNcq1T3N0ISpP4KQvbZ_NOrFok91Wy4N75wZA7Y/edit?usp=sharing)
 ## Usage
-Input pickup and dropoff location with API call below, then watch it appear at client http://172.27.131.157:8501/
+Input pickup and dropoff location with API call below, then watch it appear at client http://127.0.0.1:8501/
 ```bash
 http://127.0.0.1:8000//order/pickup={pickup_lon},{pickup_lat};dropoff={dropoff_lon},{dropoff_lat};
 ```
